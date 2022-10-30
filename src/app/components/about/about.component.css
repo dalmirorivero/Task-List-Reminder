@@ -1,0 +1,21 @@
+div {
+    margin-bottom: 5rem;
+    display: block;
+    margin-top: 70px;
+}
+
+h4{
+    font-weight: 100;
+    font-style: italic;
+    color: #3C4048;
+}
+
+a{
+    font-weight: 100;
+    font-style: italic;
+}
+
+p{
+    color: #3C4048;
+    text-align: center;
+}
